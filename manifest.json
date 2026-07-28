@@ -2,8 +2,9 @@
   "version": "1.0.0",
   "paks": [
     {
-      "name": "pakchunk100-WindowsClient.pak",
-      "url": "https://github.com/gxvn1/Project-Exel-7.40/releases/download/v1.0.0/pakchunk100-WindowsClient.pak"
+      "name": "pakchunk0-WindowsClient_P.pak",
+      "url": "https://raw.githubusercontent.com/gxvn1/Project-Exel-7.40/main/paks/pakchunk0-WindowsClient_P.pak",
+      "size": 1396088
     }
   ]
 }
