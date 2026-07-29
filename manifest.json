@@ -1,17 +1,17 @@
 {
-  "version": "1.1.0",
+  "version": "1.3.0",
   "paks": [
     {
       "name": "pakchunk0-WindowsClient_P.pak",
       "url": "https://raw.githubusercontent.com/gxvn1/Project-Exel-7.40/main/paks/pakchunk0-WindowsClient_P.pak",
-      "size": 2736793,
-      "sha256": "b8fbbfbf257d75fe6b43f3e76d47b2e931a9a65dd89a13ae5d5e31a4d3d3f6c6"
+      "size": 653565,
+      "sha256": "12783788cceead5d629e404e3ca032dcbf00906e9a3fdb85b550977857b37deb"
     },
     {
       "name": "pakchunk0-WindowsClient_P.sig",
       "url": "https://raw.githubusercontent.com/gxvn1/Project-Exel-7.40/main/paks/pakchunk0-WindowsClient_P.sig",
-      "size": 236,
-      "sha256": "e4f26d563071d322ac88e611f094868574956ee3ab481c0dec8e6c1b456af8ca"
+      "size": 108,
+      "sha256": "fa1090726ea099ff72ae4b6a6fd5f76669c7abca84c905020cb10a91cdaded82"
     }
   ]
 }
